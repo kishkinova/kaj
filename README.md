@@ -1,1 +1,1 @@
-# kaj
+KAJ semester project
